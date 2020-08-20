@@ -9,7 +9,7 @@
   "author": "Julie Dyer, James Marion, Jonathan Shaw, Todd Briley",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.1",
     "dropzone": "^4.3.0",
